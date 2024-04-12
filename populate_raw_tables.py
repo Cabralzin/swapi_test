@@ -13,16 +13,12 @@ def insert_data(cursor, table_name, data):
 
     # Insert data into the table
     if columns:
-        if isinstance(data, dict):
-            for key, value in data.items():
-                if isinstance(value, list):
-                    for item in value:
-                        item_columns = list(item.keys())
-                        valid_columns = [column for column in item_columns if column in columns]
-                        values = [str(item.get(column, "")) for column in valid_columns]
-                        placeholders = ", ".join(["%s" for _ in valid_columns])
-                        insert_query = f"INSERT INTO raw.{table_name} ({', '.join(valid_columns)}) VALUES ({placeholders})"
-                        cursor.execute(insert_query, values)
+        if isinstance(data, list):
+            for item in data:
+                values = [item.get(column, "") for column in columns]
+                placeholders = ", ".join(["%s" for _ in columns])
+                insert_query = f"INSERT INTO raw.{table_name} ({', '.join(columns)}) VALUES ({placeholders})"
+                cursor.execute(insert_query, values)
 
 def main():
     # Connect to PostgreSQL database
@@ -30,8 +26,10 @@ def main():
         dbname="postgres",
         user="postgres",
         password="D@nKlarH@ands1995",
-        host="localhost"
-    )
+        host="localhost",
+        options="-c search_path=raw"
+
+        )
     cursor = connection.cursor()
 
     # Read JSON files and insert data into tables
