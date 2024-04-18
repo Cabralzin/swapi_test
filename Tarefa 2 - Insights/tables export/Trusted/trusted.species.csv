@@ -1,0 +1,38 @@
+"id";"name";"classification";"designation";"average_height";"skin_colors";"hair_colors";"eye_colors";"average_lifespan";"homeworld";"language";"created";"edited";"url"
+1;Human;mammal;sentient;"180.0";caucasian, black, asian, hispanic;blonde, brown, black, red;brown, blue, green, hazel, grey, amber;"120";https://swapi.dev/api/planets/9/;Galactic Basic;2014-12-10 13:52:11.567;2014-12-20 21:36:42.136;https://swapi.dev/api/species/1/
+2;Droid;artificial;sentient;"0.0";n/a;n/a;n/a;indefinite;;n/a;2014-12-10 15:16:16.259;2014-12-20 21:36:42.139;https://swapi.dev/api/species/2/
+3;Wookie;mammal;sentient;"210.0";gray;black, brown;blue, green, yellow, brown, golden, red;"400";https://swapi.dev/api/planets/14/;Shyriiwook;2014-12-10 16:44:31.486;2014-12-20 21:36:42.142;https://swapi.dev/api/species/3/
+4;Rodian;sentient;reptilian;"170.0";green, blue;n/a;black;;https://swapi.dev/api/planets/23/;Galatic Basic;2014-12-10 17:05:26.471;2014-12-20 21:36:42.144;https://swapi.dev/api/species/4/
+5;Hutt;gastropod;sentient;"300.0";green, brown, tan;n/a;yellow, red;"1000";https://swapi.dev/api/planets/24/;Huttese;2014-12-10 17:12:50.410;2014-12-20 21:36:42.146;https://swapi.dev/api/species/5/
+6;Yoda's species;mammal;sentient;"66.0";green, yellow;brown, white;brown, green, yellow;"900";https://swapi.dev/api/planets/28/;Galactic basic;2014-12-15 12:27:22.877;2014-12-20 21:36:42.148;https://swapi.dev/api/species/6/
+7;Trandoshan;reptile;sentient;"200.0";brown, green;none;yellow, orange;;https://swapi.dev/api/planets/29/;Dosh;2014-12-15 13:07:47.704;2014-12-20 21:36:42.151;https://swapi.dev/api/species/7/
+8;Mon Calamari;amphibian;sentient;"160.0";red, blue, brown, magenta;none;yellow;;https://swapi.dev/api/planets/31/;Mon Calamarian;2014-12-18 11:09:52.263;2014-12-20 21:36:42.153;https://swapi.dev/api/species/8/
+9;Ewok;mammal;sentient;"100.0";brown;white, brown, black;orange, brown;;https://swapi.dev/api/planets/7/;Ewokese;2014-12-18 11:22:00.285;2014-12-20 21:36:42.155;https://swapi.dev/api/species/9/
+10;Sullustan;mammal;sentient;"180.0";pale;none;black;;https://swapi.dev/api/planets/33/;Sullutese;2014-12-18 11:26:20.103;2014-12-20 21:36:42.157;https://swapi.dev/api/species/10/
+11;Neimodian;;sentient;"180.0";grey, green;none;red, pink;;https://swapi.dev/api/planets/18/;Neimoidia;2014-12-19 17:07:31.319;2014-12-20 21:36:42.160;https://swapi.dev/api/species/11/
+12;Gungan;amphibian;sentient;"190.0";brown, green;none;orange;;https://swapi.dev/api/planets/8/;Gungan basic;2014-12-19 17:30:37.341;2014-12-20 21:36:42.163;https://swapi.dev/api/species/12/
+13;Toydarian;mammal;sentient;"120.0";blue, green, grey;none;yellow;"91";https://swapi.dev/api/planets/34/;Toydarian;2014-12-19 17:48:56.893;2014-12-20 21:36:42.165;https://swapi.dev/api/species/13/
+14;Dug;mammal;sentient;"100.0";brown, purple, grey, red;none;yellow, blue;;https://swapi.dev/api/planets/35/;Dugese;2014-12-19 17:53:11.214;2014-12-20 21:36:42.167;https://swapi.dev/api/species/14/
+15;Twi'lek;mammals;sentient;"200.0";orange, yellow, blue, green, pink, purple, tan;none;blue, brown, orange, pink;;https://swapi.dev/api/planets/37/;Twi'leki;2014-12-20 09:48:02.406;2014-12-20 21:36:42.169;https://swapi.dev/api/species/15/
+16;Aleena;reptile;sentient;"80.0";blue, gray;none;;"79";https://swapi.dev/api/planets/38/;Aleena;2014-12-20 09:53:16.481;2014-12-20 21:36:42.171;https://swapi.dev/api/species/16/
+17;Vulptereen;;sentient;"100.0";grey;none;yellow;;https://swapi.dev/api/planets/39/;vulpterish;2014-12-20 09:57:33.128;2014-12-20 21:36:42.173;https://swapi.dev/api/species/17/
+18;Xexto;;sentient;"125.0";grey, yellow, purple;none;black;;https://swapi.dev/api/planets/40/;Xextese;2014-12-20 10:02:13.915;2014-12-20 21:36:42.175;https://swapi.dev/api/species/18/
+19;Toong;;sentient;"200.0";grey, green, yellow;none;orange;;https://swapi.dev/api/planets/41/;Tundan;2014-12-20 10:08:36.795;2014-12-20 21:36:42.177;https://swapi.dev/api/species/19/
+20;Cerean;mammal;sentient;"200.0";pale pink;red, blond, black, white;hazel;;https://swapi.dev/api/planets/43/;Cerean;2014-12-20 10:15:33.765;2014-12-20 21:36:42.179;https://swapi.dev/api/species/20/
+21;Nautolan;amphibian;sentient;"180.0";green, blue, brown, red;none;black;"70";https://swapi.dev/api/planets/44/;Nautila;2014-12-20 10:18:58.610;2014-12-20 21:36:42.181;https://swapi.dev/api/species/21/
+22;Zabrak;mammal;sentient;"180.0";pale, brown, red, orange, yellow;black;brown, orange;;https://swapi.dev/api/planets/45/;Zabraki;2014-12-20 10:26:59.894;2014-12-20 21:36:42.183;https://swapi.dev/api/species/22/
+23;Tholothian;mammal;sentient;NaN;dark;;blue, indigo;;https://swapi.dev/api/planets/46/;;2014-12-20 10:29:13.798;2014-12-20 21:36:42.186;https://swapi.dev/api/species/23/
+24;Iktotchi;;sentient;"180.0";pink;none;orange;;https://swapi.dev/api/planets/47/;Iktotchese;2014-12-20 10:32:13.046;2014-12-20 21:36:42.188;https://swapi.dev/api/species/24/
+25;Quermian;mammal;sentient;"240.0";white;none;yellow;"86";https://swapi.dev/api/planets/48/;Quermian;2014-12-20 10:34:50.827;2014-12-20 21:36:42.189;https://swapi.dev/api/species/25/
+26;Kel Dor;;sentient;"180.0";peach, orange, red;none;black, silver;"70";https://swapi.dev/api/planets/49/;Kel Dor;2014-12-20 10:49:21.692;2014-12-20 21:36:42.191;https://swapi.dev/api/species/26/
+27;Chagrian;amphibian;sentient;"190.0";blue;none;blue;;https://swapi.dev/api/planets/50/;Chagria;2014-12-20 10:53:28.795;2014-12-20 21:36:42.193;https://swapi.dev/api/species/27/
+28;Geonosian;insectoid;sentient;"178.0";green, brown;none;green, hazel;;https://swapi.dev/api/planets/11/;Geonosian;2014-12-20 16:40:45.618;2014-12-20 21:36:42.195;https://swapi.dev/api/species/28/
+29;Mirialan;mammal;sentient;"180.0";yellow, green;black, brown;blue, green, red, yellow, brown, orange;;https://swapi.dev/api/planets/51/;Mirialan;2014-12-20 16:46:48.290;2014-12-20 21:36:42.197;https://swapi.dev/api/species/29/
+30;Clawdite;reptilian;sentient;"180.0";green, yellow;none;yellow;"70";https://swapi.dev/api/planets/54/;Clawdite;2014-12-20 16:57:46.171;2014-12-20 21:36:42.199;https://swapi.dev/api/species/30/
+31;Besalisk;amphibian;sentient;"178.0";brown;none;yellow;"75";https://swapi.dev/api/planets/55/;besalisk;2014-12-20 17:28:28.821;2014-12-20 21:36:42.200;https://swapi.dev/api/species/31/
+32;Kaminoan;amphibian;sentient;"220.0";grey, blue;none;black;"80";https://swapi.dev/api/planets/10/;Kaminoan;2014-12-20 17:31:24.838;2014-12-20 21:36:42.202;https://swapi.dev/api/species/32/
+33;Skakoan;mammal;sentient;NaN;grey, green;none;;;https://swapi.dev/api/planets/56/;Skakoan;2014-12-20 17:53:54.515;2014-12-20 21:36:42.204;https://swapi.dev/api/species/33/
+34;Muun;mammal;sentient;"190.0";grey, white;none;black;"100";https://swapi.dev/api/planets/57/;Muun;2014-12-20 17:58:19.088;2014-12-20 21:36:42.207;https://swapi.dev/api/species/34/
+35;Togruta;mammal;sentient;"180.0";red, white, orange, yellow, green, blue;none;red, orange, yellow, green, blue, black;"94";https://swapi.dev/api/planets/58/;Togruti;2014-12-20 18:44:03.246;2014-12-20 21:36:42.209;https://swapi.dev/api/species/35/
+36;Kaleesh;reptile;sentient;"170.0";brown, orange, tan;none;yellow;"80";https://swapi.dev/api/planets/59/;Kaleesh;2014-12-20 19:45:42.537;2014-12-20 21:36:42.210;https://swapi.dev/api/species/36/
+37;Pau'an;mammal;sentient;"190.0";grey;none;black;"700";https://swapi.dev/api/planets/12/;Utapese;2014-12-20 20:35:06.777;2014-12-20 21:36:42.212;https://swapi.dev/api/species/37/

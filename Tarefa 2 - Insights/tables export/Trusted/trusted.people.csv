@@ -1,0 +1,83 @@
+"id";"name";"height";"mass";"hair_color";"skin_color";"eye_color";"birth_year";"gender";"homeworld";"created";"edited";"url"
+1;Luke Skywalker;172;77.0;blond;fair;blue;"19BBY";male;https://swapi.dev/api/planets/1/;2014-12-09 13:50:51.644;2014-12-20 21:17:56.891;https://swapi.dev/api/people/1/
+2;C-3PO;167;75.0;n/a;gold;yellow;"112BBY";n/a;https://swapi.dev/api/planets/1/;2014-12-10 15:10:51.357;2014-12-20 21:17:50.309;https://swapi.dev/api/people/2/
+3;R2-D2;96;32.0;n/a;white, blue;red;"33BBY";n/a;https://swapi.dev/api/planets/8/;2014-12-10 15:11:50.376;2014-12-20 21:17:50.311;https://swapi.dev/api/people/3/
+4;Darth Vader;202;136.0;none;white;yellow;"41.9BBY";male;https://swapi.dev/api/planets/1/;2014-12-10 15:18:20.704;2014-12-20 21:17:50.313;https://swapi.dev/api/people/4/
+5;Leia Organa;150;49.0;brown;light;brown;"19BBY";female;https://swapi.dev/api/planets/2/;2014-12-10 15:20:09.791;2014-12-20 21:17:50.315;https://swapi.dev/api/people/5/
+6;Owen Lars;178;120.0;brown, grey;light;blue;"52BBY";male;https://swapi.dev/api/planets/1/;2014-12-10 15:52:14.024;2014-12-20 21:17:50.317;https://swapi.dev/api/people/6/
+7;Beru Whitesun lars;165;75.0;brown;light;blue;"47BBY";female;https://swapi.dev/api/planets/1/;2014-12-10 15:53:41.121;2014-12-20 21:17:50.319;https://swapi.dev/api/people/7/
+8;R5-D4;97;32.0;n/a;white, red;red;;n/a;https://swapi.dev/api/planets/1/;2014-12-10 15:57:50.959;2014-12-20 21:17:50.321;https://swapi.dev/api/people/8/
+9;Biggs Darklighter;183;84.0;black;light;brown;"24BBY";male;https://swapi.dev/api/planets/1/;2014-12-10 15:59:50.509;2014-12-20 21:17:50.323;https://swapi.dev/api/people/9/
+10;Obi-Wan Kenobi;182;77.0;auburn, white;fair;blue-gray;"57BBY";male;https://swapi.dev/api/planets/20/;2014-12-10 16:16:29.192;2014-12-20 21:17:50.325;https://swapi.dev/api/people/10/
+11;Anakin Skywalker;188;84.0;blond;fair;blue;"41.9BBY";male;https://swapi.dev/api/planets/1/;2014-12-10 16:20:44.310;2014-12-20 21:17:50.327;https://swapi.dev/api/people/11/
+12;Wilhuff Tarkin;180;;auburn, grey;fair;blue;"64BBY";male;https://swapi.dev/api/planets/21/;2014-12-10 16:26:56.138;2014-12-20 21:17:50.330;https://swapi.dev/api/people/12/
+13;Chewbacca;228;112.0;brown;;blue;"200BBY";male;https://swapi.dev/api/planets/14/;2014-12-10 16:42:45.066;2014-12-20 21:17:50.332;https://swapi.dev/api/people/13/
+14;Han Solo;180;80.0;brown;fair;brown;"29BBY";male;https://swapi.dev/api/planets/22/;2014-12-10 16:49:14.582;2014-12-20 21:17:50.334;https://swapi.dev/api/people/14/
+15;Greedo;173;74.0;n/a;green;black;"44BBY";male;https://swapi.dev/api/planets/23/;2014-12-10 17:03:30.334;2014-12-20 21:17:50.336;https://swapi.dev/api/people/15/
+16;Jabba Desilijic Tiure;175;1358.0;n/a;green-tan, brown;orange;"600BBY";hermaphrodite;https://swapi.dev/api/planets/24/;2014-12-10 17:11:31.638;2014-12-20 21:17:50.338;https://swapi.dev/api/people/16/
+17;Wedge Antilles;170;77.0;brown;fair;hazel;"21BBY";male;https://swapi.dev/api/planets/22/;2014-12-12 11:08:06.469;2014-12-20 21:17:50.341;https://swapi.dev/api/people/18/
+18;Jek Tono Porkins;180;110.0;brown;fair;blue;;male;https://swapi.dev/api/planets/26/;2014-12-12 11:16:56.569;2014-12-20 21:17:50.343;https://swapi.dev/api/people/19/
+19;Yoda;66;17.0;white;green;brown;"896BBY";male;https://swapi.dev/api/planets/28/;2014-12-15 12:26:01.042;2014-12-20 21:17:50.345;https://swapi.dev/api/people/20/
+20;Palpatine;170;75.0;grey;pale;yellow;"82BBY";male;https://swapi.dev/api/planets/8/;2014-12-15 12:48:05.971;2014-12-20 21:17:50.347;https://swapi.dev/api/people/21/
+21;Boba Fett;183;78.2;black;fair;brown;"31.5BBY";male;https://swapi.dev/api/planets/10/;2014-12-15 12:49:32.457;2014-12-20 21:17:50.349;https://swapi.dev/api/people/22/
+22;IG-88;200;140.0;none;metal;red;"15BBY";none;https://swapi.dev/api/planets/28/;2014-12-15 12:51:10.076;2014-12-20 21:17:50.351;https://swapi.dev/api/people/23/
+23;Bossk;190;113.0;none;green;red;"53BBY";male;https://swapi.dev/api/planets/29/;2014-12-15 12:53:49.297;2014-12-20 21:17:50.355;https://swapi.dev/api/people/24/
+24;Lando Calrissian;177;79.0;black;dark;brown;"31BBY";male;https://swapi.dev/api/planets/30/;2014-12-15 12:56:32.683;2014-12-20 21:17:50.357;https://swapi.dev/api/people/25/
+25;Lobot;175;79.0;none;light;blue;"37BBY";male;https://swapi.dev/api/planets/6/;2014-12-15 13:01:57.178;2014-12-20 21:17:50.359;https://swapi.dev/api/people/26/
+26;Ackbar;180;83.0;none;brown mottle;orange;"41BBY";male;https://swapi.dev/api/planets/31/;2014-12-18 11:07:50.584;2014-12-20 21:17:50.362;https://swapi.dev/api/people/27/
+27;Mon Mothma;150;;auburn;fair;blue;"48BBY";female;https://swapi.dev/api/planets/32/;2014-12-18 11:12:38.895;2014-12-20 21:17:50.364;https://swapi.dev/api/people/28/
+28;Arvel Crynyd;;;brown;fair;brown;;male;https://swapi.dev/api/planets/28/;2014-12-18 11:16:33.020;2014-12-20 21:17:50.367;https://swapi.dev/api/people/29/
+29;Wicket Systri Warrick;88;20.0;brown;brown;brown;"8BBY";male;https://swapi.dev/api/planets/7/;2014-12-18 11:21:58.954;2014-12-20 21:17:50.369;https://swapi.dev/api/people/30/
+30;Nien Nunb;160;68.0;none;grey;black;;male;https://swapi.dev/api/planets/33/;2014-12-18 11:26:18.541;2014-12-20 21:17:50.371;https://swapi.dev/api/people/31/
+31;Qui-Gon Jinn;193;89.0;brown;fair;blue;"92BBY";male;https://swapi.dev/api/planets/28/;2014-12-19 16:54:53.618;2014-12-20 21:17:50.375;https://swapi.dev/api/people/32/
+32;Nute Gunray;191;90.0;none;mottled green;red;;male;https://swapi.dev/api/planets/18/;2014-12-19 17:05:57.357;2014-12-20 21:17:50.377;https://swapi.dev/api/people/33/
+33;Finis Valorum;170;;blond;fair;blue;"91BBY";male;https://swapi.dev/api/planets/9/;2014-12-19 17:21:45.915;2014-12-20 21:17:50.379;https://swapi.dev/api/people/34/
+34;Padmé Amidala;185;45.0;brown;light;brown;"46BBY";female;https://swapi.dev/api/planets/8/;2014-12-19 17:28:26.926;2014-12-20 21:17:50.381;https://swapi.dev/api/people/35/
+35;Jar Jar Binks;196;66.0;none;orange;orange;"52BBY";male;https://swapi.dev/api/planets/8/;2014-12-19 17:29:32.489;2014-12-20 21:17:50.383;https://swapi.dev/api/people/36/
+36;Roos Tarpals;224;82.0;none;grey;orange;;male;https://swapi.dev/api/planets/8/;2014-12-19 17:32:56.741;2014-12-20 21:17:50.385;https://swapi.dev/api/people/37/
+37;Rugor Nass;206;;none;green;orange;;male;https://swapi.dev/api/planets/8/;2014-12-19 17:33:38.909;2014-12-20 21:17:50.388;https://swapi.dev/api/people/38/
+38;Ric Olié;183;;brown;fair;blue;;male;https://swapi.dev/api/planets/8/;2014-12-19 17:45:01.522;2014-12-20 21:17:50.392;https://swapi.dev/api/people/39/
+39;Watto;137;;black;blue, grey;yellow;;male;https://swapi.dev/api/planets/34/;2014-12-19 17:48:54.647;2014-12-20 21:17:50.395;https://swapi.dev/api/people/40/
+40;Sebulba;112;40.0;none;grey, red;orange;;male;https://swapi.dev/api/planets/35/;2014-12-19 17:53:02.586;2014-12-20 21:17:50.397;https://swapi.dev/api/people/41/
+41;Quarsh Panaka;183;;black;dark;brown;"62BBY";male;https://swapi.dev/api/planets/8/;2014-12-19 17:55:43.348;2014-12-20 21:17:50.399;https://swapi.dev/api/people/42/
+42;Shmi Skywalker;163;;black;fair;brown;"72BBY";female;https://swapi.dev/api/planets/1/;2014-12-19 17:57:41.191;2014-12-20 21:17:50.401;https://swapi.dev/api/people/43/
+43;Darth Maul;175;80.0;none;red;yellow;"54BBY";male;https://swapi.dev/api/planets/36/;2014-12-19 18:00:41.929;2014-12-20 21:17:50.403;https://swapi.dev/api/people/44/
+44;Bib Fortuna;180;;none;pale;pink;;male;https://swapi.dev/api/planets/37/;2014-12-20 09:47:02.512;2014-12-20 21:17:50.407;https://swapi.dev/api/people/45/
+45;Ayla Secura;178;55.0;none;blue;hazel;"48BBY";female;https://swapi.dev/api/planets/37/;2014-12-20 09:48:01.172;2014-12-20 21:17:50.409;https://swapi.dev/api/people/46/
+46;Ratts Tyerel;79;15.0;none;grey, blue;;;male;https://swapi.dev/api/planets/38/;2014-12-20 09:53:15.086;2014-12-20 21:17:50.410;https://swapi.dev/api/people/47/
+47;Dud Bolt;94;45.0;none;blue, grey;yellow;;male;https://swapi.dev/api/planets/39/;2014-12-20 09:57:31.858;2014-12-20 21:17:50.414;https://swapi.dev/api/people/48/
+48;Gasgano;122;;none;white, blue;black;;male;https://swapi.dev/api/planets/40/;2014-12-20 10:02:12.223;2014-12-20 21:17:50.416;https://swapi.dev/api/people/49/
+49;Ben Quadinaros;163;65.0;none;grey, green, yellow;orange;;male;https://swapi.dev/api/planets/41/;2014-12-20 10:08:33.777;2014-12-20 21:17:50.417;https://swapi.dev/api/people/50/
+50;Mace Windu;188;84.0;none;dark;brown;"72BBY";male;https://swapi.dev/api/planets/42/;2014-12-20 10:12:30.846;2014-12-20 21:17:50.420;https://swapi.dev/api/people/51/
+51;Ki-Adi-Mundi;198;82.0;white;pale;yellow;"92BBY";male;https://swapi.dev/api/planets/43/;2014-12-20 10:15:32.293;2014-12-20 21:17:50.422;https://swapi.dev/api/people/52/
+52;Kit Fisto;196;87.0;none;green;black;;male;https://swapi.dev/api/planets/44/;2014-12-20 10:18:57.202;2014-12-20 21:17:50.424;https://swapi.dev/api/people/53/
+53;Eeth Koth;171;;black;brown;brown;;male;https://swapi.dev/api/planets/45/;2014-12-20 10:26:47.902;2014-12-20 21:17:50.427;https://swapi.dev/api/people/54/
+54;Adi Gallia;184;50.0;none;dark;blue;;female;https://swapi.dev/api/planets/9/;2014-12-20 10:29:11.661;2014-12-20 21:17:50.432;https://swapi.dev/api/people/55/
+55;Saesee Tiin;188;;none;pale;orange;;male;https://swapi.dev/api/planets/47/;2014-12-20 10:32:11.669;2014-12-20 21:17:50.434;https://swapi.dev/api/people/56/
+56;Yarael Poof;264;;none;white;yellow;;male;https://swapi.dev/api/planets/48/;2014-12-20 10:34:48.725;2014-12-20 21:17:50.437;https://swapi.dev/api/people/57/
+57;Plo Koon;188;80.0;none;orange;black;"22BBY";male;https://swapi.dev/api/planets/49/;2014-12-20 10:49:19.859;2014-12-20 21:17:50.439;https://swapi.dev/api/people/58/
+58;Mas Amedda;196;;none;blue;blue;;male;https://swapi.dev/api/planets/50/;2014-12-20 10:53:26.457;2014-12-20 21:17:50.442;https://swapi.dev/api/people/59/
+59;Gregar Typho;185;85.0;black;dark;brown;;male;https://swapi.dev/api/planets/8/;2014-12-20 11:10:10.381;2014-12-20 21:17:50.445;https://swapi.dev/api/people/60/
+60;Cordé;157;;brown;light;brown;;female;https://swapi.dev/api/planets/8/;2014-12-20 11:11:39.630;2014-12-20 21:17:50.449;https://swapi.dev/api/people/61/
+61;Cliegg Lars;183;;brown;fair;blue;"82BBY";male;https://swapi.dev/api/planets/1/;2014-12-20 15:59:03.958;2014-12-20 21:17:50.451;https://swapi.dev/api/people/62/
+62;Poggle the Lesser;183;80.0;none;green;yellow;;male;https://swapi.dev/api/planets/11/;2014-12-20 16:40:43.977;2014-12-20 21:17:50.453;https://swapi.dev/api/people/63/
+63;Luminara Unduli;170;56.2;black;yellow;blue;"58BBY";female;https://swapi.dev/api/planets/51/;2014-12-20 16:45:53.668;2014-12-20 21:17:50.455;https://swapi.dev/api/people/64/
+64;Barriss Offee;166;50.0;black;yellow;blue;"40BBY";female;https://swapi.dev/api/planets/51/;2014-12-20 16:46:40.440;2014-12-20 21:17:50.457;https://swapi.dev/api/people/65/
+65;Dormé;165;;brown;light;brown;;female;https://swapi.dev/api/planets/8/;2014-12-20 16:49:14.640;2014-12-20 21:17:50.460;https://swapi.dev/api/people/66/
+66;Dooku;193;80.0;white;fair;brown;"102BBY";male;https://swapi.dev/api/planets/52/;2014-12-20 16:52:14.726;2014-12-20 21:17:50.462;https://swapi.dev/api/people/67/
+67;Bail Prestor Organa;191;;black;tan;brown;"67BBY";male;https://swapi.dev/api/planets/2/;2014-12-20 16:53:08.575;2014-12-20 21:17:50.463;https://swapi.dev/api/people/68/
+68;Jango Fett;183;79.0;black;tan;brown;"66BBY";male;https://swapi.dev/api/planets/53/;2014-12-20 16:54:41.620;2014-12-20 21:17:50.465;https://swapi.dev/api/people/69/
+69;Zam Wesell;168;55.0;blonde;fair, green, yellow;yellow;;female;https://swapi.dev/api/planets/54/;2014-12-20 16:57:44.471;2014-12-20 21:17:50.468;https://swapi.dev/api/people/70/
+70;Dexter Jettster;198;102.0;none;brown;yellow;;male;https://swapi.dev/api/planets/55/;2014-12-20 17:28:27.248;2014-12-20 21:17:50.470;https://swapi.dev/api/people/71/
+71;Lama Su;229;88.0;none;grey;black;;male;https://swapi.dev/api/planets/10/;2014-12-20 17:30:50.416;2014-12-20 21:17:50.473;https://swapi.dev/api/people/72/
+72;Taun We;213;;none;grey;black;;female;https://swapi.dev/api/planets/10/;2014-12-20 17:31:21.195;2014-12-20 21:17:50.474;https://swapi.dev/api/people/73/
+73;Jocasta Nu;167;;white;fair;blue;;female;https://swapi.dev/api/planets/9/;2014-12-20 17:32:51.996;2014-12-20 21:17:50.476;https://swapi.dev/api/people/74/
+74;R4-P17;96;;none;silver, red;red, blue;;female;https://swapi.dev/api/planets/28/;2014-12-20 17:43:36.409;2014-12-20 21:17:50.478;https://swapi.dev/api/people/75/
+75;Wat Tambor;193;48.0;none;green, grey;;;male;https://swapi.dev/api/planets/56/;2014-12-20 17:53:52.607;2014-12-20 21:17:50.481;https://swapi.dev/api/people/76/
+76;San Hill;191;;none;grey;gold;;male;https://swapi.dev/api/planets/57/;2014-12-20 17:58:17.049;2014-12-20 21:17:50.484;https://swapi.dev/api/people/77/
+77;Shaak Ti;178;57.0;none;red, blue, white;black;;female;https://swapi.dev/api/planets/58/;2014-12-20 18:44:01.103;2014-12-20 21:17:50.486;https://swapi.dev/api/people/78/
+78;Grievous;216;159.0;none;brown, white;green, yellow;;male;https://swapi.dev/api/planets/59/;2014-12-20 19:43:53.348;2014-12-20 21:17:50.488;https://swapi.dev/api/people/79/
+79;Tarfful;234;136.0;brown;brown;blue;;male;https://swapi.dev/api/planets/14/;2014-12-20 19:46:34.209;2014-12-20 21:17:50.491;https://swapi.dev/api/people/80/
+80;Raymus Antilles;188;79.0;brown;light;brown;;male;https://swapi.dev/api/planets/2/;2014-12-20 19:49:35.583;2014-12-20 21:17:50.493;https://swapi.dev/api/people/81/
+81;Sly Moore;178;48.0;none;pale;white;;female;https://swapi.dev/api/planets/60/;2014-12-20 20:18:37.619;2014-12-20 21:17:50.496;https://swapi.dev/api/people/82/
+82;Tion Medon;206;80.0;none;grey;black;;male;https://swapi.dev/api/planets/12/;2014-12-20 20:35:04.260;2014-12-20 21:17:50.498;https://swapi.dev/api/people/83/
