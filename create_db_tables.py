@@ -22,7 +22,7 @@ def get_column_type(value):
 def create_table(cursor, table_name, columns):
     # Generate SQL command to create table with appropriate column types
     columns_str = ", ".join([f"{column} {get_column_type(columns[column])}" for column in columns])
-    create_table_query = f"CREATE TABLE IF NOT EXISTS trusted.{table_name} (id SERIAL PRIMARY KEY, {columns_str})"
+    create_table_query = f"CREATE TABLE IF NOT EXISTS raw.{table_name} (id SERIAL PRIMARY KEY, {columns_str})"
     cursor.execute(create_table_query)
 
 def main():
